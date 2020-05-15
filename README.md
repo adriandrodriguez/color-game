@@ -1,2 +1,2 @@
 # color-game
-color goame
+color game
